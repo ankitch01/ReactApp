@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <b>Ankit</b>
+        <p>This is first commit in branch 1 through cmd</p>
         <a
           className="App-link"
           href="https://reactjs.org"
